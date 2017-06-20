@@ -13,8 +13,6 @@ You'll be editing `index.js` and running tests as usual.
 - Define a function, `iterate`, that accepts a callback. Within the `iterate()` function, you should initialize an array. It can contain anything you want, but make sure that it is not empty! Call `.forEach()` on this array, passing the callback to `.forEach()`. Then return the array that you initialized.
 - Define a function, `doToArray` that accepts an array and a callback. Call `.forEach()` on the array, passing the callback as the `forEach` callback.
 
-Remember, you can run the tests using `mocha.run()` in the browser if you'd like — then read the results, refresh the page, and keep going afterwards.
-
 You can run the tests using `mocha.run()` in the browser if you'd like — then read the results, refresh the page, and keep going afterwards.
 
 >Note: If you're using the Learn IDE, this is how to use mocha.run():
@@ -27,5 +25,7 @@ You can run the tests using `mocha.run()` in the browser if you'd like — then 
 ## Resources
 
 - [forEach()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/for-each-lab'>forEach() Lab</a> on Learn.co and start learning to code for free.</p>
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/for-each-lab'>forEach() Lab</a> on Learn.co and start learning to code for free.</p>
